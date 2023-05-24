@@ -22,10 +22,14 @@ print(nom)
 añoNac = int(input("Ingrese su año de nacimiento"))
 fn.calcularEdad(añoNac)
 
+
+p = True
 print("Segundo commit")
 print("tercer commit")
 
 print("Commit probando pull")
+if p :
+    print("Viva!! es verdad")
 
 
 
