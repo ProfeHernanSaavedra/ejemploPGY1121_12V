@@ -5,14 +5,17 @@ nombres = []
 #for i in range(len(nombres)):
 #    print(nombres[i])
 
-for i in range(5):
+for i in range(3):
     print("Nombre", i)
     nom = input("Ingrese el nombre: ")
     nombres.append(nom)
     
+    
 for i in nombres:
     print(i)
-
+    
+print(nombres)
+'''
 for i in range(4):
     nom  = input("Ingrese su nombre: ")
     fn.saludo(nom)
@@ -32,4 +35,4 @@ if p :
     print("Viva!! es verdad")
 
 
-
+'''
