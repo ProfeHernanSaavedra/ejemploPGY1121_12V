@@ -36,3 +36,6 @@ if p :
 
 
 '''
+print("sumar...")
+TotalSuma = fn.sumar(3,2)
+print(TotalSuma)
